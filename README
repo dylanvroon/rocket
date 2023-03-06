@@ -1,0 +1,22 @@
+To do:
+-implement rest of play_rocket.py 
+-ensure that model beats threshold for any given data set (try rawData4 next)
+-collect more data ~1000 preferred
+-test out behind3, behind4, different parameters for dividers
+
+Model does not beat threshold, might retry with different parameters for dividers
+Don't think I need to collect more data
+
+
+Good fucking work,
+check on why it always says 1.5, maybe skews x values differently
+check profit of propData
+write some more models with skewed x
+print the x arrays as theyre going in and check it against formulated play_rocket x array
+
+Keep checking on log variations
+experiment with a probabilistic outcome for y (not categories)
+Do a another run with log4_3
+
+try unsorted
+analyze 3
