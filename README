@@ -1,3 +1,6 @@
+I built multiple neural networks to analyze the rocket game on Draftkings app. I hope to create a bot to play it that would beat the 3% house edge.
+
+My Notes:
 To do:
 -implement rest of play_rocket.py 
 -ensure that model beats threshold for any given data set (try rawData4 next)
@@ -7,8 +10,6 @@ To do:
 Model does not beat threshold, might retry with different parameters for dividers
 Don't think I need to collect more data
 
-
-Good fucking work,
 check on why it always says 1.5, maybe skews x values differently
 check profit of propData
 write some more models with skewed x
